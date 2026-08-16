@@ -25,6 +25,23 @@ de unicornios a dos jugadores.
 
 → **[Los doce juegos](https://ignasimarcos.com/#neusiretos)**
 
+### FicharPyme
+
+He ayudado a crear **[FicharPyme](https://ficharpyme.es/)**, el registro de
+jornada del art. 34.9 del Estatuto de los Trabajadores para empresas pequeñas. Lo
+que me enganchó fue el problema de demostrar que un fichaje no se ha tocado: cada
+uno encadenado al anterior mediante un hash, y una base de datos que no deja
+modificar lo ya escrito. Teoría vieja que tenía medio olvidada y que he acabado
+disfrutando otra vez.
+
+Está contado exigencia por exigencia, y contrastado contra el BOE, en su página
+de **[cumplimiento](https://ficharpyme.es/cumplimiento/)**.
+
+Es un servicio de Higaltor Technics, S.L.U. Yo no lo presto ni puedo dar ninguna
+garantía sobre él: para eso están sus
+[condiciones](https://ficharpyme.es/legal/) y su
+[contacto](https://ficharpyme.es/contacto/).
+
 ### Por aquí
 
 - **[statuslineclaude](https://github.com/Isangi74/statuslineclaude)** — línea de
