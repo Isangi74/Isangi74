@@ -37,7 +37,7 @@ disfrutando otra vez.
 Está contado exigencia por exigencia, y contrastado contra el BOE, en su página
 de **[cumplimiento](https://ficharpyme.es/cumplimiento/)**.
 
-Es un servicio de Higaltor Technics, S.L.U. Yo no lo presto ni puedo dar ninguna
+Es un servicio de Higaltor Technics, S.L. Yo no lo presto ni puedo dar ninguna
 garantía sobre él: para eso están sus
 [condiciones](https://ficharpyme.es/legal/) y su
 [contacto](https://ficharpyme.es/contacto/).
