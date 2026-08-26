@@ -42,6 +42,20 @@ garantía sobre él: para eso están sus
 [condiciones](https://ficharpyme.es/legal/) y su
 [contacto](https://ficharpyme.es/contacto/).
 
+### ElsRebuts
+
+**[elsrebuts.cat](https://elsrebuts.cat/)** reúne los tributos municipales de
+Catalunya: lo que cada ayuntamiento publica por su cuenta, repartido en
+ordenanzas y boletines, puesto junto y en catalán.
+
+Éste lo he hecho yo entero, y el problema no era técnico sino de paciencia. La
+información es pública, pero vive en cientos de documentos con formatos
+distintos: encontrarla cuesta bastante más que leerla. Reunirla es todo el
+trabajo, y también todo el valor.
+
+Sin cuentas y sin anuncios. Y sin pretensión de sustituir a nadie: la que manda
+siempre es la ordenanza del ayuntamiento, que queda enlazada en cada dato.
+
 ### Por aquí
 
 - **[statuslineclaude](https://github.com/Isangi74/statuslineclaude)** — línea de
