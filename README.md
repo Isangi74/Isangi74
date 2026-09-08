@@ -56,6 +56,24 @@ trabajo, y también todo el valor.
 Sin cuentas y sin anuncios. Y sin pretensión de sustituir a nadie: la que manda
 siempre es la ordenanza del ayuntamiento, que queda enlazada en cada dato.
 
+### Granet de Sorra
+
+**[granetdesorra.cat](https://granetdesorra.cat/)** es una red de webs de
+cortesía para entidades pequeñas sin ánimo de lucro de Els Hostalets de Pierola
+—una AMPA, una asociación cultural, una protectora, un reto solidario—. Les hago
+una web nueva a medida, gratis, y la mantengo año tras año: alojamiento, dominio
+y cambios incluidos.
+
+El nombre viene de *"posar-hi el meu granet de sorra"*. No prometo más visitas ni
+vengo a sustituir a nadie; es una web digna y cuidada para quien ahora no tiene
+ninguna, o tiene una vieja y abandonada. Cada entidad cuelga de un subdominio y
+todas se enlazan entre sí para darse visibilidad. En catalán por defecto y en
+castellano.
+
+Está empezando. La primera es
+**[riuadadenassos](https://riuadadenassos.duckdns.org/)**, la web de la campaña
+solidaria de Francesc Esteve para Pallapupas.
+
 ### Por aquí
 
 - **[statuslineclaude](https://github.com/Isangi74/statuslineclaude)** — línea de
