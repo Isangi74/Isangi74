@@ -71,8 +71,8 @@ todas se enlazan entre sí para darse visibilidad. En catalán por defecto y en
 castellano.
 
 Está empezando. La primera es
-**[riuadadenassos](https://riuadadenassos.duckdns.org/)**, la web de la campaña
-solidaria de Francesc Esteve para Pallapupas.
+**[riuadadenassos](https://riuadadenassos.granetdesorra.cat/)**, la web de la
+campaña solidaria de Francesc Esteve para Pallapupas.
 
 ### Por aquí
 
